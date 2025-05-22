@@ -5,6 +5,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
@@ -23,5 +26,4 @@ var myVar = "Hello, world!";
 
 
 
-
-Added an image, added a header, added javascript code
+Added an image, added a header, added javascript code example, added task list
